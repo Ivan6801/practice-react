@@ -5,7 +5,7 @@ export const Listas = styled.ul`
   display: flex;
   flex-wrap: wrap;
   margin: 0 auto;
-  max-width: 1200px;
+  max-width: 1000px;
   justify-content: center;
   align-items: center;
 `

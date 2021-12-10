@@ -1,0 +1,18 @@
+.btn {
+  color: #3C3E44;
+  font-size: 20px;
+  font-weight: bold;
+  text-decoration: none;
+  margin: 10px;
+}
+
+.btn:hover {
+  color: #40B5CB;
+}
+
+.flex-center {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
+}
